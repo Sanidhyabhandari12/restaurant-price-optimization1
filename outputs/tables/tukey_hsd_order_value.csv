@@ -1,0 +1,7 @@
+group1,group2,mean_diff_inr,p_adj,lower,upper,significant
+A - Control,B - Charm Pricing,-1.2471,0.9999,-46.3319,43.8376,False
+A - Control,C - Premium Framing,19.0454,0.7237,-27.8532,65.944,False
+A - Control,D - Anchor + Combo,51.2972,0.0177,6.3547,96.2398,True
+B - Charm Pricing,C - Premium Framing,20.2925,0.6717,-25.9059,66.4909,False
+B - Charm Pricing,D - Anchor + Combo,52.5444,0.0122,8.333,96.7558,True
+C - Premium Framing,D - Anchor + Combo,32.2519,0.2736,-13.8078,78.3116,False
